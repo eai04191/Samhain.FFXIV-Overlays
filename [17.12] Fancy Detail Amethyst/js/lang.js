@@ -1,6 +1,4 @@
 var userLang = "en";
-userLang = navigator.language || navigator.userLanguage;
-userLang = userLang.substring(0, 2);
 
 var Languages = {
 	"lang":{
