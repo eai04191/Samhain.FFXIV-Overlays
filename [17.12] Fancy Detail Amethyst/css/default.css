@@ -1,5 +1,5 @@
 html, body{margin:0px; padding:0px;}
-* {cursor:default;}
+* {cursor:default; user-select: none;}
 
 ::-webkit-scrollbar {width:0px;}
 ::-webkit-scrollbar-track {background:rgba(255,255,255,.1); border-radius: 3px;}
